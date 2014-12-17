@@ -1,0 +1,11 @@
+.row1{
+    background-image: url("../images/div1.png");
+    background-repeat: repeat;
+    height: 120px;
+    width: 982px;
+}
+
+
+img{
+    margin-top: 10px;
+}
